@@ -1,4 +1,4 @@
-### Hi there 👋
+### Trying to make sense of an overideated world 👋
 
 <!--
 **hektor-ekhein/hektor-ekhein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
